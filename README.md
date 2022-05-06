@@ -1,6 +1,6 @@
-<img src="https://github.com/Himanshukaushik303/dbms-project/blob/main/src/Login1.png" width="100%" height="75%"/>
-<img src="https://github.com/Himanshukaushik303/dbms-project/blob/main/src/Login2.png" width="100%" height="75%"/>
-<img src="https://github.com/Himanshukaushik303/dbms-project/blob/main/src/Login3.png" width="100%" height="75%"/>
+<img src="https://github.com/Himanshukaushik303/dbms-project/blob/master/src/Login1.png" width="100%" height="75%"/>
+<img src="https://github.com/Himanshukaushik303/dbms-project/blob/master/src/Login2.png" width="100%" height="75%"/>
+<img src="https://github.com/Himanshukaushik303/dbms-project/blob/master/src/Login3.png" width="100%" height="75%"/>
 
 
 **Estate Real** is a platfrom to manage all the properties,transactions,agents and their managed properties.
